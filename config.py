@@ -7,7 +7,7 @@ STARTING_HAND_SIZE = 6
 PACK_PRICE = 100
 CHALLENGE_TIMEOUT = 30 #How long to wait for someone to accept a challenge
 TURN_TIMEOUT = 300 #How long to wait for someone to do an action on their turn before they forfeit the match
-TOKEN = 'ODczNjAwNzA2MDg5NzI1OTYy.YQ6yDw._dbpWRh71E7c6VLRGPLEFs0fO9I' #secret
+TOKEN = 'ODczNjUwMzEwMDQyNzQ2OTUx.YQ7gQQ.uONvxwDmQu5m8w7ZSxZFD5iM4H0' #secret
 
 DEFINITIONS = {
 	"lifeforce": "Your primary resource. You use this to pay card and Node costs. If it reaches 0, you lose.",
